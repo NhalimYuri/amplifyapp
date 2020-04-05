@@ -1,5 +1,5 @@
 import React from 'react';
-import logo from './logo.svg';
+import logo from './20200101_182929.jpg';
 import './App.css';
 
 function App() {
@@ -12,7 +12,7 @@ function App() {
         </p>
         <a
           className="App-link"
-          href="https://reactjs.org"
+          href="https://github.com/NhalimYuri/amplifyapp"
           target="_blank"
           rel="noopener noreferrer"
         >
